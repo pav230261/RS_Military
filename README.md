@@ -1,4 +1,4 @@
-# 🇷🇸 Das serbosche Militär – Organisationsstruktur (OrgChart Demo)
+# 🇷🇸 Das serbische Militär – Organisationsstruktur (OrgChart Demo)
 
 Dieses Projekt visualisiert die Organisationsstruktur des serbischen Militärs als interaktives Organigramm.  
 Die Daten werden dynamisch über eine API geladen und können entweder aus einer PostgreSQL-Datenbank oder aus einer lokalen JSON-Datei stammen.
