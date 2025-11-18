@@ -1,0 +1,13 @@
+{
+  "name": "serb-militaer-project",
+  "version": "1.0.0",
+  "description": "Demo: Serbisches Militär — Webprojekt mit Server-API (PostgreSQL optional)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
